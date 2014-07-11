@@ -1,3 +1,5 @@
+Hallo Heiko! 
+
 Thanks for downloading this theme!
 
 If you have any questions regarding its usage, you can get support 
